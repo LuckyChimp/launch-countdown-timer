@@ -52,4 +52,4 @@ Users are able to:
 
 ## Acknowledgments
 
-- [@PButcher](https://github.com/PButcher)
+- [@PButcher](https://github.com/PButcher) for his awesome and easy to implement countdown clock [FlipDown.js](https://github.com/PButcher/flipdown)
